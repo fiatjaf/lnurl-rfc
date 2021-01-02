@@ -6,6 +6,7 @@
 - Logging in ([LNURL-auth](lnurl-auth.md))
 - Withdrawing funds ([LNURL-withdraw](lnurl-withdraw.md))
 - Paying for a service ([LNURL-pay](lnurl-pay.md))
+- Pairing Wallet <-> Service through allowances ([LNURL-allowance](lnurl-allowance.md))
 
 An example `LNURL`:
 > https://service.com/api?q=3fc3645b439ce8e7f2553a69e5267081d96dcd340693afabe04be7b0ccd178df
@@ -53,3 +54,4 @@ If you have any questions about implementing LNURL as a wallet or service, join 
 2. [LNURL-auth](lnurl-auth.md)
 3. [LNURL-withdraw](lnurl-withdraw.md)
 4. [LNURL-pay](lnurl-pay.md)
+5. [LNURL-allowance](lnurl-allowance.md)
